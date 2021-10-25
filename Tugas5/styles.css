@@ -1,0 +1,11 @@
+.list-item {
+    margin-bottom: 10px;
+}
+
+.list-item > p, button {
+    display: inline;
+}
+
+.list-item > p {
+    margin-right: 10px;
+}
